@@ -1,6 +1,6 @@
 class Punto {
 
-    static int N = 1000;
+    static int N = 100;
 
     public static void main(String[] args) {
 
